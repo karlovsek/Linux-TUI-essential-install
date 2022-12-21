@@ -7,6 +7,7 @@ nix-env -iA \
         nixpkgs.fzf \
         nixpkgs.fasd \
         nixpkgs.silver-searcher \
+        nixpkgs.fd \
         nixpkgs.ripgrep \
         nixpkgs.bat \
         nixpkgs.exa \
