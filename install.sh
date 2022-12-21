@@ -8,5 +8,5 @@ source nix-packages.sh
 # source nix
 . ~/.nix-profile/etc/profile.d/nix.sh
 
-# If not add this to ~/.zshrc for ZSH or ~/.profile for bash
-# if [ -e ~/.nix-profile/etc/profile.d/nix.sh ]; then . ~/.nix-profile/etc/profile.d/nix.sh; fi" >> ~/.zshrc
+echo "If not add this to ~/.zshrc for ZSH or ~/.profile for bash"
+echo "if [ -e ~/.nix-profile/etc/profile.d/nix.sh ]; then . ~/.nix-profile/etc/profile.d/nix.sh; fi" >> ~/.zshrc"
