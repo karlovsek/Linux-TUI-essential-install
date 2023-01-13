@@ -19,4 +19,5 @@ nix-env -iA \
         nixpkgs.zsh-powerlevel10k \
         nixpkgs.fzf-zsh \
         nixpkgs.neovim \
+        nixpkgs.htop \
         nixpkgs.vim
